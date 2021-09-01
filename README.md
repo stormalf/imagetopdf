@@ -6,18 +6,18 @@ inspired from image2pdf from https://github.com/geekcomputers/Python/blob/master
 
 I prefer passed images in command line before converting automatically images from directory
 
-imageToPdf is a python3 converter that saves your image into a pdf
-For linux and linux-like OS that have the pre-requisite pillow module
-Usage: imagetopdf [options] image1 image2 imagex pdfname
-image should have the required extension JPG, JPEG or PNG
-pdfname should have the pdf extension
-Options:
--V, --version Display version number of imageToPdf
--H, --help Display this help
+    imageToPdf is a python3 converter that saves your image into a pdf
+    For linux and linux-like OS that have the pre-requisite pillow module
+    Usage: imagetopdf [options] image1 image2 imagex pdfname
+    image should have the required extension JPG, JPEG or PNG
+    pdfname should have the pdf extension
+    Options:
+    -V, --version Display version number of imageToPdf
+    -H, --help Display this help
 
----
+    ---
 
-Enjoy!
+    Enjoy!
 
 Note that you can convert into an exe using my other tool pytoc!
 
